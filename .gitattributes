@@ -1,0 +1,4 @@
+* text=auto
+*.py text eol=lf
+*.csv -diff
+*.tsv -diff

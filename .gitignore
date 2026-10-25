@@ -1,0 +1,13 @@
+*.db
+*.db-*
+*.crfsuite
+__pycache__/
+*.pyc
+data/sources/
+data/HadithMaster/
+*.tmp
+
+labels/
+models/
+docs/AUDIT_*.md
+*.npz

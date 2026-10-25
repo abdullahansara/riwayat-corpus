@@ -1,0 +1,12 @@
+CC0 1.0 Universal (Public Domain Dedication)
+
+To the extent possible under law, Abdullah Ansar has waived all copyright and related or neighboring rights
+to the code, annotations, parses, identifications, labels and documentation in this repository
+(Riwayat: A Corpus of Sunni and Shi'i Hadith Transmission).
+
+You can copy, modify, distribute and use the work, even for commercial purposes, all without asking permission.
+Full legal text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+Not covered: the underlying third-party datasets from which the hadith texts and source annotations are derived
+(see docs/SOURCES.md). They remain subject to their own licenses and citation requirements (for example hadith-kg is
+CC-BY-4.0 and requires attribution). This dedication does not and cannot change those terms.

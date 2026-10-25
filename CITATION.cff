@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it and the source datasets listed in docs/SOURCES.md."
+title: "Riwāyāt: A Corpus of Sunni and Shīʿī Hadith Transmission"
+abstract: "A unified corpus of Sunni and Shīʿī hadith with parsed isnāds, matn boundaries and a narrator registry."
+type: dataset
+authors:
+  - family-names: "Ansar"
+    given-names: "Abdullah"
+license: CC0-1.0
