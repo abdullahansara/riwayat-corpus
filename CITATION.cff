@@ -3,6 +3,12 @@ message: "If you use this dataset, please cite it and the source datasets listed
 title: "Riwāyāt: A Corpus of Sunni and Shīʿī Hadith Transmission"
 abstract: "A unified corpus of Sunni and Shīʿī hadith with parsed isnāds, matn boundaries and a narrator registry."
 type: dataset
+doi: 10.5281/zenodo.23630500
+repository-code: "https://github.com/abdullahansara/riwayat-corpus"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23630501
+    description: "Version v1"
 authors:
   - family-names: "Ansar"
     given-names: "Abdullah"

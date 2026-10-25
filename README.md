@@ -16,8 +16,16 @@ Every mention records *how* its ID was assigned (`id_method`) and how confident 
 Narrator grading (thiqa etc.) is deliberately not included.
 
 ## Get the data
-The 3.8 GB SQLite file is **not in this repository**. Download `hadith_master.db` from the release / data deposit
-(link to be added) into `data/HadithMaster/`, then:
+The 4.7 GB SQLite database is **not in this repository**. It is deposited on Zenodo as a 577 MB xz archive:
+**[10.5281/zenodo.23630500](https://doi.org/10.5281/zenodo.23630500)** (all versions; v1 = [10.5281/zenodo.23630501](https://doi.org/10.5281/zenodo.23630501)).
+Download `hadith_master.db.xz`, then decompress it into `data/HadithMaster/`:
+
+```
+xz -d hadith_master.db.xz          # SHA-256 of the archive: 0519e097f742b2d9262a1a6c05e7cb0d697f0bef71179c1610f9d28445dfde05
+mkdir -p data/HadithMaster && mv hadith_master.db data/HadithMaster/
+```
+
+Then:
 
 ```
 pip install -r requirements.txt
