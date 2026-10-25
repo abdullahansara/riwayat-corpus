@@ -6,4 +6,6 @@ type: dataset
 authors:
   - family-names: "Ansar"
     given-names: "Abdullah"
+    orcid: "https://orcid.org/0000-0001-8195-7530"
+    affiliation: "Divinity School, University of Chicago"
 license: CC0-1.0
